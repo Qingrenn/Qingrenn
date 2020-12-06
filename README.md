@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Qingrenn&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Qingrenn&show_icons=true&theme=merko?title_color=EEAD0E)
+
 
 <!--
 **Qingrenn/Qingrenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
