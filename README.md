@@ -5,7 +5,7 @@
 - 😄 Pronouns: I study a little slowy , but never give up .
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Qingrenn&show_icons=true&theme=merko&title_color=EEAD0E)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qingrenn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qingrenn&hide=assembly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
