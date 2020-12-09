@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Qingren</h1>
 <h3 align="center">A passionate RL&CV postgraduate</h3>
 
+- 🌱 I’m currently learning Reinforcement Learning .
+
+- 😄 Pronouns: I study a little slowy , but never give up .
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Qingrenn&show_icons=true&theme=merko&title_color=EEAD0E)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qingrenn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🌱 I’m currently learning **Reinforcement Learning** .
 
-😄 Pronouns: I study a little slowy , but never give up .
 <!--
 **Qingrenn/Qingrenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
