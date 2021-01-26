@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qingren</h1>
-<h3 align="center">A passionate RL&CV postgraduate</h3>
+<h3 align="center">A passionate ML&CV postgraduate</h3>
 
-- 🌱 I’m currently learning Reinforcement Learning .
+- 🌱 I’m currently learning Semantic Segmentation .
 - 😄 I study a little slowy , but never give up .
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Qingrenn&show_icons=true&theme=merko&title_color=EEAD0E)
