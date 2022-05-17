@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently preparing my first paper .
 - 🌱 I’m currently learning model deploy .
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qingrenn&hide=assembly,c)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Qingrenn&show_icons=true&theme=merko&title_color=EEAD0E)
-
+---
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qingrenn&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qingrenn&layout=compact&langs_count=6"/>
+</div>
 
 
 <!--
