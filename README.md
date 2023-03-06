@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center" style="margin: 10px; padding: 0px;">Hi~ I'm Qingren ! 👋</h2>
+<h1 align="center" style="margin: 10px; padding: 0px;">Hi~ I'm Qingren ! 👋</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=false&width=435&lines=A+Computer+Vision+Developer" alt="Typing SVG" /></a>
