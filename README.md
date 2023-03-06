@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=false&width=435&lines=A+Computer+Vision+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="left">Hi, I'm Qingren, a graduate student in computer vision at Tianjin University. My research focuses on hyperspectral image processing and I'm also interested in the practical model deployment.  If you have any questions or are interested in discussing related topics, I would be happy to chat!</p>
+<p align="left">Hi, I'm Qingren, a graduate student in computer vision at Tianjin University 🎓. My research focuses on hyperspectral image processing and I'm also interested in the practical model deployment 🛠.  If you have any questions or are interested in discussing related topics, I would be happy to chat! 🤝</p>
 
 ###
 
